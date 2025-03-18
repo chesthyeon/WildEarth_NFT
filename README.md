@@ -5,26 +5,13 @@
 ### 진행 내용 및 결과
 
 - 5종의 멸종 위기 동물(수리부엉이, 치타, 반달가슴곰, 하프물범, 시이우섬안경원숭이)을 선정하여 NFT 이미지 제작
+![수리부엉이](https://github.com/user-attachments/assets/24631913-6393-4753-8029-4a3d79dea7e4)
+![치타](https://github.com/user-attachments/assets/c02d9b32-29de-4a50-a9d7-8cd8d5cfacd7)
+![반달곰](https://github.com/user-attachments/assets/aa5380db-c91d-4e90-aad4-afaac38463e7)
+![물범](https://github.com/user-attachments/assets/7beb841e-8871-4860-be9e-9c490193389c)
+![안경원숭이](https://github.com/user-attachments/assets/78b05b0f-0fb4-41dd-a9d6-9bf6d96965d0)
 
-![수리부엉이 ](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/94163259-e9af-42ae-bd39-656778a94709/Untitled.png)
 
-수리부엉이 
-
-![치타](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/217d689f-2436-476e-a565-509ebd955c18/Untitled.png)
-
-치타
-
-![반달가슴곰 ](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/23058912-faef-4708-88ad-a84a58a55b7f/Untitled.png)
-
-반달가슴곰 
-
-![하프물범](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/7ef23a72-0100-4190-8cfe-a6bd7c19ffbd/Untitled.png)
-
-하프물범
-
-![시이우섬안경원숭이 ](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/eedcb0af-be59-44b8-9c15-e12fea2499ea/Untitled.png)
-
-시이우섬안경원숭이 
 
 - 악세서리와 배경을 조합하여 총 100개의 NFT 이미지 생성
 
