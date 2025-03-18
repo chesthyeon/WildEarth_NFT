@@ -16,43 +16,59 @@
 
 - 악세서리와 배경을 조합하여 총 100개의 NFT 이미지 생성
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/c97996e5-3712-4332-b830-a263848f56f2/Untitled.png)
+![image](https://github.com/user-attachments/assets/7c4b0d99-f27a-47d2-b7ec-aa6634a00854)
+![image](https://github.com/user-attachments/assets/3a51abbd-6fd0-4e7a-8b37-c4141148e85f)
+![image](https://github.com/user-attachments/assets/dfa78d1b-d969-4e53-b1c7-b228e43f0531)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/c5a416b3-3b0e-48a0-8b12-d8ff7394c350/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/92cfc7c8-a121-4ec6-afb7-d92833c11aa0/Untitled.png)
 
 - Klaytn 블록체인 기반의 스마트 컨트랙트를 작성하여 NFT 민팅, 판매, 구매 기능 구현
 
-![민팅](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/cf582240-1cf3-4d6b-a8fb-68b9e25bf2b4/Untitled.png)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/24ba86d9-b828-4f60-af43-f6e2f7810640" width="250" alt="민팅" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/2743cb06-9f23-44ee-a973-3fa752a9addd" width="250" alt="판매" style="margin-right: 10px;" /> 
+  <img src="https://github.com/user-attachments/assets/1707fc76-64b5-4204-b132-787138c59b3c" width="250" alt="구매" />
+</p>
 
-민팅
 
-![판매](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/fc04820c-fe0f-440d-80de-44113f7d6e69/Untitled.png)
+![서비스 시나리오](https://github.com/user-attachments/assets/43148289-8f53-471b-b42c-31a70afcbc73)
 
-판매
-
-![구매](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/5a419cdc-fe00-42e0-b43d-5b9a21cb1ad5/Untitled.png)
-
-구매
-
-![다음과 같은 과정을 걸쳐서 NFT 코인이 이동하게 된다.](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/40be3b0b-8345-45b2-9f02-77463edfce04/Untitled.png)
 
 다음과 같은 과정을 걸쳐서 NFT 코인이 이동하게 된다.
 
 - React를 사용하여 프론트엔드 개발 (메인 페이지, 동물 소개, NFT 탐색, 구매, 프로필 등)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/18090d83-ad5c-49e6-af54-cf482ba33b47" width="350"/>
+      <br>
+      메인 페이지
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e2851bbf-f707-4af7-bd3a-80100d092998" width="350"/>
+      <br>
+      상세 페이지
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6e655714-5adc-44cf-9cf2-b68a23ff36b1" width="350"/>
+      <br>
+      랭킹 페이지
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/69588a96-e701-4620-9325-e91f3956e860" width="350"/>
+      <br>
+      상세 페이지
+    </td>
+  </tr>
+</table>
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/8353a48f-535f-432f-aaae-038440733d25/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/c8ce633c-1b2b-4b7b-aa83-4884c48f4242/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/6a8c918a-c7c1-4bb5-bae7-e3c54dfd93a8/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/8993362a-0a1c-46f2-99d5-66aba5e0cfdd/Untitled.png)
 
 ### 시스템 구성도
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/80bb8d41-f644-4e30-9e01-7545488d520d/d48de773-b45e-4c29-a4f4-da766418b50f/Untitled.png)
+![image](https://github.com/user-attachments/assets/5eb2231f-ea9b-4a20-8dcc-4dfaac7d27f8)
+
 
 1. 사용자는 웹 브라우저를 통해 애플리케이션에 접근합니다.
 2. React로 만들어진 프론트엔드가 사용자 인터페이스를 제공합니다.
@@ -78,7 +94,3 @@
 
 - 프론트엔드와 백엔드 서버를 분리하여 보안성과 안정성 향상
 - 백엔드 서버에서 스마트 컨트랙트와 연동하여 데이터를 처리하고, 처리된 데이터를 프론트엔드에 전달하는 구조로 개선 계획
-
-# 📝 Sorce
-
-💻 **Github :** [https://github.com/chesthyeon/Text-Recognition-kiosk](https://github.com/chesthyeon/WildEarth_NFT)
