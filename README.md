@@ -5,6 +5,7 @@
 ### 진행 내용 및 결과
 
 - 5종의 멸종 위기 동물(수리부엉이, 치타, 반달가슴곰, 하프물범, 시이우섬안경원숭이)을 선정하여 NFT 이미지 제작
+
 ![수리부엉이](https://github.com/user-attachments/assets/24631913-6393-4753-8029-4a3d79dea7e4)
 ![치타](https://github.com/user-attachments/assets/c02d9b32-29de-4a50-a9d7-8cd8d5cfacd7)
 ![반달곰](https://github.com/user-attachments/assets/aa5380db-c91d-4e90-aad4-afaac38463e7)
